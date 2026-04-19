@@ -123,8 +123,4 @@ README.md
 README.de.md
 ```
 
----
 
-## 📄 License
-
-A license (MIT, Apache‑2.0, or CC‑BY‑4.0) will be added to this project.
